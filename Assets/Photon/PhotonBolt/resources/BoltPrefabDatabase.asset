@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763834002, guid: 5b00bf8b25851d440940a40ec23344f4, type: 3}
+  m_Name: BoltPrefabDatabase
+  m_EditorClassIdentifier: 
+  DatabaseMode: 0
+  Prefabs:
+  - {fileID: 0}
+  - {fileID: 137424001605817493, guid: 6b05741f04bba4b73baaf054b1e8ba71, type: 3}
+  - {fileID: 7566715114146827844, guid: d2705c87d86fee140ae3cedc3a6ffb8b, type: 3}
+  - {fileID: 4559986731011082276, guid: 568729637054c594faf633b385ed5fb2, type: 3}
+  SearchPaths: []

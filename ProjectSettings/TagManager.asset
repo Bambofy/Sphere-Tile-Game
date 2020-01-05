@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TILESET_GROUND
+  - TILESET_SOLIDS
+  - TILESET_WALKABLES
+  - TILESET_OBJECTS
+  - TILEMAP_PLAYERS
+  - FOLDER_PLAYERS
+  - TILEMAP_SOLIDS_MASK
+  - MAP
+  - CHAT_SCROLL_VIEW
+  - CHAT_SCROLL_VIEW_CONTENT
+  - CHAT_INPUT_FIELD
+  - CHAT_SUBMIT_BUTTON
+  - CHAT_WRITE_MESSAGE_BUTTON
+  - CHAT_STOP_WRITING_MESSAGE_BUTTON
+  - MAIN_CANVAS
+  - MINIMAP_CAMERA
+  - VIEW_CAMERA
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
